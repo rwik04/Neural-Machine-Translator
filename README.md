@@ -1,6 +1,6 @@
 # Neural Machine Translator
 
-### _A pre trained neural machine translator, fine tuned to a specific dataset, to convert English Text into German Text_
+### _A pre trained neural machine translator, fine tuned to a specific dataset, to convert English Text into German Text ( OPUS MT )_
 
 We have used the Hugging Face Model called Opus MT model developed by the Language Technology Research Group at the University of Helsinki. The dataset is used from the World Machine Translation Conference held in 2016.
 
